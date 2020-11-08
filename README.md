@@ -6,5 +6,5 @@ This is a timed Code Quiz Game. The user will automatically be prompted with the
 ![1604842502456.gif](./1604842502456.gif)
 
 
-Link to GitHub Repository:
+Link to GitHub Repository:https://github.com/Toccara/TimedCodeQuiz
 Link to Site: https://toccara.github.io/TimedCodeQuiz/
