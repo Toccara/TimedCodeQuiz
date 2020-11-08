@@ -7,3 +7,4 @@ This is a timed Code Quiz Game. The user will automatically be prompted with the
 
 
 Link to GitHub Repository:
+Link to Site: https://toccara.github.io/TimedCodeQuiz/
